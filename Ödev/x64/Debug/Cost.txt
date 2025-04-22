@@ -1,0 +1,8 @@
+Talep Adresleri:
+Konum 1 : (4,5) - Adres : 00007FF78236D788
+Konum 2 : (2,6) - Adres : 00007FF78236D73C
+Konum 3 : (7,9) - Adres : 00007FF78236D810
+Konum 4 : (5,8) - Adres : 00007FF78236D7BC
+Konum 5 : (8,7) - Adres : 00007FF78236D830
+
+Son Toplam Yol: 1494

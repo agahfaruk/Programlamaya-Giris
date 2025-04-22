@@ -1,0 +1,5 @@
+1. mavi nokta: [4][6] = 17 Adres: 000000622D9FEAF8
+2. mavi nokta: [6][4] = 14 Adres: 000000622D9FEB40
+3. mavi nokta: [4][1] = 7 Adres: 000000622D9FEAE4
+4. mavi nokta: [7][8] = 31 Adres: 000000622D9FEB78
+5. mavi nokta: [1][1] = 13 Adres: 000000622D9FEA6C

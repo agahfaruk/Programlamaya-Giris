@@ -1,0 +1,7 @@
+1. mavi nokta: [1][6] = 37 Adres: 0000000C680FEE50
+2. mavi nokta: [6][8] = 86 Adres: 0000000C680FEF20
+3. mavi nokta: [0][3] = 27 Adres: 0000000C680FEE1C
+4. mavi nokta: [7][8] = 7 Adres: 0000000C680FEF48
+5. mavi nokta: [5][0] = 93 Adres: 0000000C680FEED8
+
+Toplam Yol: 1468
