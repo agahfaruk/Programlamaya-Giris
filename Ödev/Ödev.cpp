@@ -1,5 +1,4 @@
 ﻿// Geliştirici : Agah Faruk Küçük
-// Öğrenci No  : b241200004
 // Ödev No     : 1
 // Ödev Konusu : Lojistik Planlama
 
